@@ -42,9 +42,9 @@ gantt
 ```mermaid
 graph TD
     bucket((5 gallon bucket))
-    dry[Add coir, vermiculite, and gypsum to bucket] --> bucket
+    dry[2: coir <br/> 1: vermiculite <br/> 1: gypsum] --> bucket
     pot((Large Pot))
-    water(water) --> pot
+    water(10:water) --> pot
     pot --> heat[Heat water to 180°F]
     heat --> bucket
     bucket --> mix[Let sit at least 6 hours]

@@ -36,3 +36,17 @@ gantt
     Mix well : mix2, after mix1, 5m
     Let sit at least 6 hours : mix3, after mix2, 6h
 ```
+
+
+
+```mermaid
+graph TD
+    bucket((5 gallon bucket))
+    dry[Add coir, vermiculite, and gypsum to bucket] --> bucket
+    pot((Large Pot))
+    water(water) --> pot
+    pot --> heat[Heat water to 180°F]
+    heat --> bucket
+    bucket --> mix[Let sit at least 6 hours]
+    mix --> done[Done]
+```

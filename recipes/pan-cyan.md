@@ -42,7 +42,7 @@ The study guide covers the necessary equipment setup for a self-sufficient fruit
 
 ### Flowchart: Material Gathering
 ```mermaid
-flowchart LR
+flowchart TD
     A[Start] --> B[Select Cake Pans]
     B --> C{Two Types}
     C -->|With Lid| D[Buy with Lids]
@@ -54,12 +54,11 @@ flowchart LR
 ```
 
 2. Substrate Preparation
-Steps
-Fill a cake pan half-way with vermiculite.
-Fill another cake pan to the top with field-aged horse or cow manure.
-Add 1/4 cup gypsum.
-Prepare two cake pans of chopped straw, or hydrate 300g coco coir.
-Measure and add hot tap water.
+- Fill a cake pan half-way with vermiculite.
+- Fill another cake pan to the top with field-aged horse or cow manure.
+- Add 1/4 cup gypsum.
+- Prepare two cake pans of chopped straw, or hydrate 300g coco coir.
+- Measure and add hot tap water.
 
 ```mermaid
 flowchart TD
@@ -76,11 +75,10 @@ flowchart TD
 
 
 3. Sterilization/Pasteurization
-Steps
-Load the prepared substrate into mycobags or large glass jars.
-For sterilization, pressure cook for 1.5 hours at 17psi or 2 hours at 15psi.
-For pasteurization, heat the substrate to 140F and maintain for 60 minutes.
-Optionally use a sous vide cooker for pasteurization for 5 hours or overnight.
+- Load the prepared substrate into mycobags or large glass jars.
+- For sterilization, pressure cook for 1.5 hours at 17psi or 2 hours at 15psi.
+- For pasteurization, heat the substrate to 140F and maintain for 60 minutes.
+- Optionally use a sous vide cooker for pasteurization for 5 hours or overnight.
 
 ```mermaid
 flowchart TD
@@ -97,12 +95,13 @@ flowchart TD
 
 4. Spawning and Colonization
 Steps
-Prepare grain spawn by shaking.
-Transfer substrate to cake pans, filling 3/4 full.
-Add 0.5 to 1 lb. of grain spawn per pan.
-Mix the grain spawn into the substrate.
-Cover cake pans with tin foil or clear top lid.
-Allow to colonize at 70-85F for about 4-7 days.
+- Prepare grain spawn by shaking.
+- Transfer substrate to cake pans, filling 3/4 full.
+- Add 0.5 to 1 lb. of grain spawn per pan.
+  - *What's the volume?*
+- Mix the grain spawn into the substrate.
+- Cover cake pans with tin foil or clear top lid.
+- Allow to colonize at 70-85F for about 4-7 days.
 
 ```mermaid
 flowchart TD
@@ -116,13 +115,12 @@ flowchart TD
 ```
 
 5. Casing and Fruiting
-Steps
-Uncover colonized substrate and add casing layer.
-Prepare casing layer with peat moss, vermiculite, and calcium hydroxide.
-Pressure cook casing mixture for 30 minutes.
-Apply a thin layer of casing to each pan.
-Maintain in a clean, humid environment for fruiting.
-Optional: cover with top for 12-24 hours initially.
+- Uncover colonized substrate and add casing layer.
+- Prepare casing layer with peat moss, vermiculite, and calcium hydroxide.
+- Pressure cook casing mixture for 30 minutes.
+- Apply a thin layer of casing to each pan.
+- Maintain in a clean, humid environment for fruiting.
+- Optional: cover with top for 12-24 hours initially.
 
 ```mermaid
 flowchart TD
@@ -142,28 +140,34 @@ flowchart TD
 
 
 
+## BULK SUBSTRATE 
+### By Volume: 
+- 2 straw/hydrated coir
+- 1 manure
+- 0.5 vermiculite
+- some gypsum*
+- 2/3
 
-5-6 pans:
-Fill cake pan HALF FULL w/ vermiculite
-    Use volume measurements; 9x13x2 ~= 3300mL
-Fill one pan full of manure
-Fill 2 pans chopped straw (or 300g coco coir w/ 3L H2O)
-Hot tap water, 2500mL +/-
+### 5-6 pans
 
-4 straw/hydrated coir : 2 manure : 1 vermiculite : some gypsum
+- Fill cake pan HALF FULL w/ vermiculite
+  - Use volume measurements; 9x13x2 ~= 3300mL
+- Fill one pan full of manure
+- Fill 2 pans chopped straw (or 300g coco coir w/ 3L H2O)
+- Hot tap water, 2500mL +/-
 
-Mix
+### STEPS
 
-Sterilize @140F (60C) 2hr
-Use immediately or in up to 2 weeks
+* Sterilize @140F (60C) 2hr
+* Use immediately or in up to 2 weeks
 
-0.5-1 lb grain spawn for each cake (3/4 full of substrate); more grain = faster colonization
-Mix throughly, even and level, patted but not packed, no straws poking up
+* 0.5-1 lb grain spawn for each cake (3/4 full of substrate); more grain = faster colonization
+* Mix throughly, even and level, patted but not packed, no straws poking up
 
-lid w/ plastic canopy or foil w/ 6 small holes
-70-85F for 4-7 days
+* lid w/ plastic canopy or foil w/ 6 small holes
+* 70-85F for 4-7 days
 
-CASING LAYER
+### CASING LAYER
 2L peat moss
 2L vermiculite
 15g calcium hydroxide OR 40g calcium carbonate
